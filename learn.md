@@ -57,5 +57,6 @@
 ![08 - Copy](https://github.com/puttimeth/jexpense-privacy-policy/assets/32786620/d929441d-6f6e-4d6e-a959-91cf7b755b99)
 
 # การสำรองข้อมูล การนำข้อมูลเข้า และการนำข้อมูลออก
-![08](https://github.com/puttimeth/jexpense-privacy-policy/assets/32786620/a23bdf93-45d2-4490-9499-4ae4133827a5)
+![08](https://github.com/puttimeth/jexpense-privacy-policy/assets/32786620/b9aabe8b-1247-40c7-9556-146f6136d315)
+
 
